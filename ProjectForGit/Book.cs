@@ -8,7 +8,7 @@ namespace ProjectForGit
 {
     internal class Book
     {
-
+        ghjkjhgfdghjkjhgfdfghjk
         public int MyProperty { get; set; }
     }
 }
